@@ -2,3 +2,5 @@
 2- riempila di acqua
 3- accendi il gas
 4- metti la pentola sul gas 
+5- versa 1k pasta
+6- cuoci per 1h
